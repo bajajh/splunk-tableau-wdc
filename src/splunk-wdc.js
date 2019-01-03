@@ -175,7 +175,7 @@
                                                 var tableInfo = {
                                                     id: "splunkFeed",
                                                     alias: cName, // "Splunk Feed Test",
-                                                    incrementColumnId: "_time"
+                                                    incrementColumnId: "_time",
                                                     columns: cols
                                                 };
                                                 schemaCallback([tableInfo]);
